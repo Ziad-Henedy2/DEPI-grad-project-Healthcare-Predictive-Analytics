@@ -37,7 +37,7 @@ DEPI-Grad-Project/
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/Zoad-Henedy2/DEPI-Grad-Project.git
-cd DEPI-Grad-Project
+cd DEPI-grad-project-Healthcare-Predictive-Analytics
 ```
 
 2. **Install required libraries:**
