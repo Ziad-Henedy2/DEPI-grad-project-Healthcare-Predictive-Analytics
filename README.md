@@ -36,7 +36,7 @@ DEPI-Grad-Project/
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/DEPI-Grad-Project.git
+git clone https://github.com/Zoad-Henedy2/DEPI-Grad-Project.git
 cd DEPI-Grad-Project
 ```
 
