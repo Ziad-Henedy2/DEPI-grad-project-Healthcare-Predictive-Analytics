@@ -46,7 +46,7 @@ Healthcare facilities face significant challenges with patient readmissions, whi
 ## 🎬 Demo
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/DEPI-Grad-Project/main/assets/demo.gif" alt="Application Demo" width="700"/>
+  <img src="assets/record2.mp4" alt="Application Demo" width="700"/>
 </p>
 
 ### Prediction Interface
@@ -54,7 +54,11 @@ Healthcare facilities face significant challenges with patient readmissions, whi
 Our web interface provides an intuitive form where healthcare providers can input patient information and receive instant predictions:
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/DEPI-Grad-Project/main/assets/prediction_interface.png" alt="Prediction Interface" width="600"/>
+  <img src="assets/1.png" alt="Prediction Interface" width="600"/>
+  <img src="assets/2.png" alt="Prediction Interface" width="600"/>
+  <img src="assets/3.png" alt="Prediction Interface" width="600"/>
+  <img src="assets/4.png" alt="Prediction Interface" width="600"/>
+  
 </p>
 
 ### Results Dashboard
@@ -62,7 +66,7 @@ Our web interface provides an intuitive form where healthcare providers can inpu
 The results dashboard visually represents the prediction outcome with risk level indicators and key contributing factors:
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/DEPI-Grad-Project/main/assets/results_dashboard.png" alt="Results Dashboard" width="600"/>
+  <img src="assets/dfashboard.png" alt="Results Dashboard" width="600"/>
 </p>
 
 ## 🏗️ Project Architecture
@@ -73,9 +77,6 @@ The system follows a three-tier architecture:
 2. **Application Layer**: Flask/Streamlit server handling requests and predictions
 3. **Data Layer**: SQLite database and trained ML model
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/DEPI-Grad-Project/main/assets/architecture.png" alt="System Architecture" width="700"/>
-</p>
 
 ## 📁 Directory Structure
 
