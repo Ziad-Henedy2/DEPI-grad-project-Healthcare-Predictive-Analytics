@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/DEPI-Grad-Project/main/assets/header_image.png" alt="Hospital Readmission Prediction System" width="800"/>
+  <img src="assets/app.png" alt="Hospital Readmission Prediction System" width="800"/>
 </p>
 
 ## 📋 Table of Contents
