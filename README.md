@@ -159,27 +159,20 @@ Our machine learning pipeline includes:
 ### Model Selection
 We evaluated multiple algorithms including:
 - Logistic Regression
+- Decision Tree
 - Random Forest
-- Gradient Boosting
-- XGBoost
-- Support Vector Machines
+
 
 ### Performance Metrics
 Random Forest was selected as our final model based on:
-- ROC AUC: 0.87
-- Precision: 0.83
-- Recall: 0.76
-- F1 Score: 0.79
+- ROC AUC: 0.90
+- Precision: 0.91
+- Recall: 0.89
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/DEPI-Grad-Project/main/assets/model_performance.png" alt="Model Performance Metrics" width="600"/>
+  <img src="assets/model-performance.png" alt="Model Performance Metrics" width="600"/>
 </p>
 
-### Feature Importance
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/DEPI-Grad-Project/main/assets/feature_importance.png" alt="Feature Importance" width="600"/>
-</p>
 
 ## 🚀 Installation & Setup
 
