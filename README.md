@@ -46,9 +46,10 @@ Healthcare facilities face significant challenges with patient readmissions, whi
 ## 🎬 Demo
 
 <p align="center">
-  <img src="assets/record2.mp4" alt="Application Demo" width="700"/>
+  <a href="https://drive.google.com/file/d/1ci9kAs-VmAp1LLp74tlAuRIuktZPITyI/view?usp=sharing" target="_blank">
+    <img src="assets/record2.mp4" alt="Application Demo" width="700"/>
+  </a>
 </p>
-
 ### Prediction Interface
 
 Our web interface provides an intuitive form where healthcare providers can input patient information and receive instant predictions:
