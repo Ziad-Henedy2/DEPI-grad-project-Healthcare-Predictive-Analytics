@@ -84,15 +84,9 @@ The system follows a three-tier architecture:
 DEPI-Grad-Project/
 │
 ├── app/
-│   ├── app.py                      # Main Flask application
-│   ├── app1.py                     # Alternate Streamlit application
-│   ├── static/
-│   │   ├── css/                    # CSS stylesheets
-│   │   ├── js/                     # JavaScript files
-│   │   └── images/                 # UI images and icons
-│   └── templates/
-│       ├── index.html              # Main prediction interface
-│       └── results.html            # Results display page
+│   ├── app1.py                      # Main Flask application
+│   ├── patients.db                  # SQLite database with patient records
+│   ├── index.html                   # Main prediction interface
 │
 ├── models/
 │   ├── random_forest_model.pkl     # Trained Random Forest model
@@ -105,20 +99,8 @@ DEPI-Grad-Project/
 │
 ├── notebooks/
 │   ├── prediction-on-hospital-readmission.ipynb  # EDA & model training
-│   └── feature_engineering.ipynb   # Feature engineering experiments
-│
-├── utils/
-│   ├── data_preprocessing.py       # Data preprocessing utilities
-│   ├── model_training.py           # Model training scripts
-│   └── db_operations.py            # Database operation functions
-│
-├── tests/
-│   ├── test_app.py                 # App functionality tests
-│   └── test_model.py               # Model performance tests
 │
 ├── requirements.txt                # Project dependencies
-├── Dockerfile                      # Docker configuration
-├── Procfile                        # Heroku deployment configuration
 ├── setup.py                        # Package setup script
 └── README.md                       # Project documentation
 ```
