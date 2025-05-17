@@ -47,7 +47,7 @@ Healthcare facilities face significant challenges with patient readmissions, whi
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1ci9kAs-VmAp1LLp74tlAuRIuktZPITyI/view?usp=sharing" target="_blank">
-    <img src="assets/record2.mp4" alt="Application Demo" width="700"/>
+    <img src="assets/app.png" alt="Application Demo" width="700"/>
   </a>
 </p>
 ### Prediction Interface
